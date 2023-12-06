@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('Webapp to calculate largest of 3 numbers')
 
-st.header('Enter your inputs here: ')
+st.header('Enter Inputs: ')
 
 number1 = st.number_input('Insert first number')
 number2 = st.number_input('Insert second number')
